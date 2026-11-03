@@ -49,7 +49,7 @@ I have a keen interest in Finance, Business Analytics, Technology, and Internati
 🤝 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/sai-shreyas-pawar-6312a925
-GitHub: [My GitHub Profile](https://github.com/)
+GitHub: https://shreyas-164186.github.io/ShreyasPawar-Portfolio/
 
 
 ⭐ "Always learning, building, and exploring opportunities at the intersection of technology, finance, and business."
